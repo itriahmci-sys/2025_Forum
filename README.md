@@ -226,7 +226,7 @@
                     <div>
                         <span style="font-weight: bold;">王光德 院長</span>
                         <span style="font-weight: bold;">台東馬偕醫院</span>
-                        <span style="color: #555;">在宅照護與偏鄉資源改善</span>
+                        <span style="color: #555;">偏鄉醫療資源聯合改善平台及在地化人才培育</span>
                     </div>
                 </div>
             </li>
