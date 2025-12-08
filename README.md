@@ -289,7 +289,7 @@
                                         <a href="https://forms.gle/tdLFWwx4GW6Wi78z8" target="_blank" style="display: inline-block; padding: 12px 25px; background-color: #CAE911; color: #333333; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
                                            健康樂活聯盟入會資訊                                   
                                         </a>                           
-                                        <a href="https://open.spotify.com/show/3qt7N1AMkPZek38xE0dvjp?si=c061ad027c9346a8" target="_blank" style="display: inline-block; padding: 12px 25px; background-color: #FF9933; color: #333333; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
+                                        <a href="https://open.firstory.me/user/ahmci/platforms" target="_blank" style="display: inline-block; padding: 12px 25px; background-color: #FF9933; color: #333333; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
                                            Podcast智慧健康5分鐘                                   
                                         </a>
 
